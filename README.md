@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stuartcripto
+- 👀 I’m interested in networking in programation and blockchain
+- 🌱 I’m currently learning blockchain and crypto
+- I'm Brazilian
