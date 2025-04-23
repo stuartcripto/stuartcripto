@@ -5,6 +5,9 @@ Sou estudante de Blockchain e Criptografia Digital (CST)
 Apaixonado por tecnologia e por economia. Os dois juntos dão Match.
 
 
+# nerd today, boss tomorrow
+
+
 
 
 ### Conecte-se comigo
