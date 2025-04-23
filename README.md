@@ -1,8 +1,6 @@
 # Marcelo Oliveira
 Olá, 
-Sou estudante de Blockchain e Criptografia Digital (CST), estou começando a aprender programação agora.
-
-Presto suporte de TI em grandes empresas, mas estou fazendo essa mudança para programação. 
+Sou estudante de Blockchain e Criptografia Digital (CST)
 
 Apaixonado por tecnologia e por economia. Os dois juntos dão Match.
 
@@ -14,7 +12,7 @@ Apaixonado por tecnologia e por economia. Os dois juntos dão Match.
 
 
 
-### Aprendendo
+### Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
